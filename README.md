@@ -1,16 +1,43 @@
-## Hi there 👋
+# สวัสดีครับ/ค่ะ ผม/ดิฉัน [ชื่อเล่น หรือ ชื่อ-นามสกุล] 👋
 
-<!--
-**thitsanut/thitsanut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](ลิงก์-LinkedIn-ของคุณ)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](ลิงก์เว็บไซต์ผลงานของคุณ)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:อีเมลของคุณ@example.com)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧑‍💻 เกี่ยวกับฉัน (About Me)
+* 🔭 ปัจจุบันกำลังพัฒนาโปรเจกต์ **[ชื่อโปรเจกต์ที่กำลังทำ]**
+* 🌱 กำลังเรียนรู้และอัปสกิลเรื่อง **[เทคโนโลยีที่กำลังสนใจ เช่น Next.js, Docker, AI]**
+* 👯 สนใจร่วมงานหรือพูดคุยแลกเปลี่ยนเกี่ยวกับ **[สายงาน เช่น Web Development, Data Science]**
+* 💬 ถามผม/ดิฉันได้ทุกเรื่องเกี่ยวกับ **[ความถนัด เช่น Python, React, System Design]**
+* ⚡ Fun fact: **[เกร็ดเล็กๆ น้อยๆ เกี่ยวกับตัวคุณ เช่น เขียนโค้ดได้ดีที่สุดตอนดื่มกาแฟเย็น]**
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Languages:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+
+**Frameworks & Libraries:**
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+**Databases & Tools:**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+*(เปลี่ยนคำว่า `YOUR_USERNAME` ในลิงก์ด้านล่างเป็น Username ของคุณ)*
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" height="165" />
+</p>
