@@ -39,7 +39,15 @@
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=%3E+Loading+IT+Student+Profile...+%5BOK%5D;%3E+Major%3A+Information+Technology+%F0%9F%92%BB;%3E+Status%3A+Debugging+code+%26+surviving+exams;%3E+Goal%3A+Turning+coffee+into+working+software!" alt="Typing SVG" />
   </a>
 </div>
+### 🔋 IT Foundation & Skill Meter
 
+| ทักษะ / วิชาพื้นฐาน | ระดับความเข้าใจ (XP) |
+| :--- | :--- |
+| 💻 **Programming (Python / C / Java)** | ![40%](https://progress-bar.xyz/40/?scale=100&title=Logic%20%26%20OOP&width=260&color=00FF41&progress_background=1F2937&suffix=%25) |
+| 🌐 **Web Dev (HTML / CSS / JS)** | ![30%](https://progress-bar.xyz/30/?scale=100&title=Frontend%20Basic&width=260&color=00FF41&progress_background=1F2937&suffix=%25) |
+| 🗄️ **Database & SQL** | ![25%](https://progress-bar.xyz/25/?scale=100&title=Query%20%26%20Design&width=260&color=00FF41&progress_background=1F2937&suffix=%25) |
+| 🐧 **Linux & Command Line** | ![35%](https://progress-bar.xyz/35/?scale=100&title=Terminal%20Usage&width=260&color=00FF41&progress_background=1F2937&suffix=%25) |
+| 🔧 **Git & GitHub** | ![40%](https://progress-bar.xyz/40/?scale=100&title=Version%20Control&width=260&color=00FF41&progress_background=1F2937&suffix=%25) |
 <!-- Badges สไตล์ Cyber -->
 <p align="center">
   <a href="mailto:thitsanut.b@ku.th"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF41" /></a>
