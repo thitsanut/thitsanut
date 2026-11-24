@@ -32,7 +32,7 @@
 ---
 <!-- Terminal Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:111827,100:064E3B&height=160&section=header&text=root@it-student:~%23%20./welcome.sh&fontSize=32&fontColor=00FF41&fontAlignY=45&desc=Information%20Technology%20Student%20%7C%20Tech%20Enthusiast&descSize=16&descColor=9CA3AF&descAlignY=72" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:111827,100:064E3B&height=160&section=header&text=root@thitsanut:~%23%20./welcome.sh&fontSize=32&fontColor=00FF41&fontAlignY=45&desc=Information%20Technology%20Student%20%7C%20Tech%20Enthusiast&descSize=16&descColor=9CA3AF&descAlignY=72" width="100%"/>
 
   <!-- Typing Effect สีเขียวนีออนสไตล์ Hacker Terminal -->
   <a href="https://git.io/typing-svg">
