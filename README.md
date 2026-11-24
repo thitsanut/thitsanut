@@ -48,11 +48,3 @@
 | 🗄️ **Database & SQL** | ![25%](https://progress-bar.xyz/25/?scale=100&title=Query%20%26%20Design&width=260&color=00FF41&progress_background=1F2937&suffix=%25) |
 | 🐧 **Linux & Command Line** | ![35%](https://progress-bar.xyz/35/?scale=100&title=Terminal%20Usage&width=260&color=00FF41&progress_background=1F2937&suffix=%25) |
 | 🔧 **Git & GitHub** | ![40%](https://progress-bar.xyz/40/?scale=100&title=Version%20Control&width=260&color=00FF41&progress_background=1F2937&suffix=%25) |
-<!-- Badges สไตล์ Cyber -->
-<p align="center">
-  <a href="mailto:thitsanut.b@ku.th"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF41" /></a>
-  <img src="https://img.shields.io/badge/Major-Information%20Technology-0D1117?style=for-the-badge&logo=gnubash&logoColor=00FF41" />
-  <img src="https://komarev.com/ghpvc/?username=thitsanut&label=SYSTEM+VIEWS&color=00FF41&style=for-the-badge&labelColor=0D1117" alt="Profile Views" />
-</p>
-
----
