@@ -38,3 +38,20 @@
   <img src="https://github-readme-stats.vercel.app/api?username=thitsanut&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thitsanut&layout=compact&theme=tokyonight" alt="Top Languages" height="165" />
 </p>
+---
+<!-- Banner & Typing Animation -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20there!%20I'm%20[เช]&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Computer+Science+%2F+IT+Student+%F0%9F%8E%93;Aspiring+Software+Developer;Building+my+skills+one+commit+at+a+time!" alt="Typing SVG" />
+  </a>
+</div>
+
+<p align="center">
+  <a href="mailto:thitsanut.b@ku.th"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+ 
+  <img src="https://komarev.com/ghpvc/?username=thitsanut&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
+
+---
