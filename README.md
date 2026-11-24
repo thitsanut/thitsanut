@@ -1,8 +1,7 @@
 # สวัสดีครับ ผม ธฤษณัช บุญสิงห์ 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](ลิงก์-LinkedIn-ของคุณ)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](ลิงก์เว็บไซต์ผลงานของคุณ)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:อีเมลของคุณ@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://accounts.google.com/SignOutOptions?hl=en&continue=https://www.google.com%3Fhl%3Den-US&ec=GBRA8wE))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thitsanut.b@ku.th)
 
 ---
 
@@ -54,15 +53,3 @@
   <img src="https://komarev.com/ghpvc/?username=thitsanut&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
----
-### 🧑‍🎓 About Me (เกี่ยวกับฉัน)
-
-```typescript
-const student = {
-  name: "[ชื่อ-นามสกุล หรือ ชื่อเล่น]",
-  education: "[ชื่อคณะ/สาขา เช่น วิทยาการคอมพิวเตอร์] @ [ชื่อมหาวิทยาลัย/โรงเรียน]",
-  status: "กำลังศึกษาอยู่ & มองหาโอกาสเรียนรู้สิ่งใหม่ๆ 🚀",
-  currentlyLearning: ["[ภาษาหรือเรื่องที่เรียนอยู่ เช่น Python, Web Dev, Data Structures]"],
-  goals2026: "สร้างโปรเจกต์แรกให้สำเร็จ และฝึกเขียนโค้ดให้เป็นนิสัย",
-  funFact: "เปลี่ยนกาแฟและชาเขียวให้กลายเป็นโค้ด (และบางทีก็กลายเป็นบั๊ก ☕🐛)"
-};
