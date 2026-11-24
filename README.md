@@ -52,4 +52,38 @@
  
   <img src="https://komarev.com/ghpvc/?username=thitsanut&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
+---
+<!-- Terminal Header Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:111827,100:064E3B&height=160&section=header&text=root@it-student:~%23%20./welcome.sh&fontSize=32&fontColor=00FF41&fontAlignY=45&desc=Information%20Technology%20Student%20%7C%20Tech%20Enthusiast&descSize=16&descColor=9CA3AF&descAlignY=72" width="100%"/>
 
+  <!-- Typing Effect สีเขียวนีออนสไตล์ Hacker Terminal -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=%3E+Loading+IT+Student+Profile...+%5BOK%5D;%3E+Major%3A+Information+Technology+%F0%9F%92%BB;%3E+Status%3A+Debugging+code+%26+surviving+exams;%3E+Goal%3A+Turning+coffee+into+working+software!" alt="Typing SVG" />
+  </a>
+</div>
+
+<!-- Badges สไตล์ Cyber -->
+<p align="center">
+  <a href="mailto:อีเมลของคุณ@example.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF41" /></a>
+  <img src="https://img.shields.io/badge/Major-Information%20Technology-0D1117?style=for-the-badge&logo=gnubash&logoColor=00FF41" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=SYSTEM+VIEWS&color=00FF41&style=for-the-badge&labelColor=0D1117" alt="Profile Views" />
+</p>
+
+---
+
+### 🖥️ `$ cat student_profile.json`
+
+```json
+{
+  "name": "[ชื่อ-นามสกุล หรือ ชื่อเล่น]",
+  "faculty": "Information Technology (IT)",
+  "university": "[ชื่อมหาวิทยาลัย / วิทยาลัย]",
+  "os_environment": ["Windows 11", "Linux (Ubuntu)"],
+  "current_quests": [
+    "เก็บเกรดวิชา Programming & Database",
+    "ฝึกเขียนโค้ดและอัปโหลด Lab ขึ้น GitHub",
+    "สร้าง Mini-Project แรกของตัวเอง"
+  ],
+  "motto": "It works on my machine! ¯\\_(ツ)_/¯"
+}
